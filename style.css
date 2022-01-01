@@ -1,0 +1,30 @@
+body{
+    text-align:center;
+    background-color:aqua;
+    vertical-align:middle;
+    border:7px black ridge;
+    border-top:7px ridge grey;
+    border-bottom:7px ridge grey;
+}
+#d1,#d2{
+    background-color:azure;
+    width:40%;
+    border-radius:20px;
+    font-size:25px;
+    line-height:1.5em;
+    box-shadow:10px 10px 30px black;
+}
+#i1,#i2{
+    width:250px;
+    height:40px;
+    margin-bottom:10px;
+}
+#b1{
+    width:10%;
+    height:40px;
+    border-radius:20px;
+    box-shadow:5px 5px 30px black;
+}
+#ih1{
+    margin-top:120px;
+}
